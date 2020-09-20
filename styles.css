@@ -1,0 +1,120 @@
+/* Chemistry */
+#img-c{
+    margin-right: 6px;
+}
+#p-c{
+    border: solid rebeccapurple;
+    background-color: powderblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t-c{
+color: purple;
+font-family: Arial, Helvetica, sans-serif;
+background-color: powderblue;
+border: solid rebeccapurple;
+}
+
+/* Biology section */
+.t-b{
+   text-align: left;
+   color: green;
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: greenyellow;
+   border: solid darkgreen;
+}
+#img-b{
+    margin-right: 6px;
+}
+#p-b{
+    border: solid darkgreen;
+    background-color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Telecommunications */
+.t-t{
+    text-align: left;
+    background-color:plum ;
+    color: royalblue;
+    border:solid darkblue;
+}
+#img-t{
+    margin-right: 6px;
+}
+#p-t{
+    border:solid darkblue ;
+    background-color: plum;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Aerospace engineering */
+.t-a{
+    text-align: left;
+    background-color: lightblue;
+    color: darkmagenta;
+    border: solid darkorchid; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+#img-a{
+    margin-right: 6px;
+}
+#p-a{
+    border: solid darkorchid;
+    background-color:lightblue ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Physics*/
+.t-p{
+    text-align: left;
+    background-color: lightgray;
+    color: black;
+    border: darkslategray;border: solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#img-p{
+    margin-right: 6px;
+}
+#p-p{
+    background-color: lightgray;
+    color: black;
+    border: solid darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Math*/
+.t-m{
+    text-align: left;
+    background-color: lightgray;
+    color: black;
+    border: darkslategray;border: solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#img-m{
+    margin-right: 6px;
+}
+#p-m{
+    background-color: lightgray;
+    color: black;
+    border: darkslategray;border: solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Computer science*/
+.t-cs{
+    text-align: left;
+    background-color:pink;
+    color: red;
+    border:solid violet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#img-cs{
+    margin-right: 6px;
+}
+#p-cs{
+    background-color:pink;
+    color: black;
+    border:solid violet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
